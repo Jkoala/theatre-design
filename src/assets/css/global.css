@@ -1,0 +1,10 @@
+/* 全局样式表 */
+
+html, body, #app {
+    /*background-image: url(../image/bg1.jpg);*/
+    /*background-repeat:no-repeat;*/
+    /*background-position:center;*/
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
